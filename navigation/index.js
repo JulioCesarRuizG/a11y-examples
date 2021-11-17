@@ -1,3 +1,3 @@
 function printMessage() {
-  console.log('submitted');
+  console.log("submitted");
 }

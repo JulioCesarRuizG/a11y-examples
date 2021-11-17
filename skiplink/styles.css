@@ -1,6 +1,6 @@
 body {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',
-    Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   font-size: 22px;
   margin: 0;
@@ -34,4 +34,16 @@ header ul li a {
 
 header ul li a:hover {
   border-bottom: 1px solid #333;
+}
+
+.skip-content {
+  color: white;
+}
+
+.skip-content:hover {
+  color: #333;
+}
+
+.skip-content:focus {
+  color: #333;
 }
